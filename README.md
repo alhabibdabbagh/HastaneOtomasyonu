@@ -1,0 +1,2 @@
+# HastaneOtomasyonu
+ c++ ile yapıldı
